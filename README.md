@@ -11,7 +11,7 @@ the game uses unicode characters to draw shapes by default. If you want to use p
 
     node game.js --nounicode
 
-I added unicode because I thought it look good
+I added unicode because I thought it looked better on the terminal. It should run just fine on OSX and Linux, not sure about windows.
 
 ## Controls:
     w -- rotate Counter-Clockwise
@@ -20,11 +20,11 @@ I added unicode because I thought it look good
     d -- move right
 
 ## Test
-Test coverage is appaling, but It's almost 12AM and i'm pretty sleepy, so if you want to run the 4 tests I wrote, type:
+Test coverage is appaling, but It is pretty late and i'm pretty sleepy. If you still want to run the few tests I wrote, type:
 
     npm install --dev
     mocha
 
 Thanks!
 
-Dario
+Dario Villanueva
