@@ -7,7 +7,7 @@ with node.js installed, run:
 
     node game.js
 
-the game uses unicode characters to draw shapes by default. If you want to use plain characters, add `--nonicode`, i.e.:
+the game uses unicode characters to draw shapes by default. If you want to use plain characters, add `--nounicode`, i.e.:
 
     node game.js --nounicode
 
